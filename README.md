@@ -23,4 +23,5 @@
 
 # UIUX
 
-[피그마 기초](https://github.com/wjdpwdn/FigmaStudyBasic)
+[UIUX](https://github.com/wjdpwdn/FigmaStudyBasic)
+[UI 구현](https://github.com/wjdpwdn/FigmaStudyBasic#%ED%94%BC%EA%B7%B8%EB%A7%88-%EC%A7%B1%EC%9D%B4%EA%B5%AC%EB%A7%88)
