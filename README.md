@@ -20,3 +20,7 @@
 [1. JSX, map](https://github.com/wjdpwdn/MyBlog#jsx-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B7%9C%EC%B9%99)
 
 # 면접준비
+
+# UIUX
+
+[피그마 기초](https://github.com/wjdpwdn/FigmaStudyBasic)
