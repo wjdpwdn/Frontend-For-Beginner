@@ -35,7 +35,8 @@
 # ⚪️ React
 
 * [Custom Component](https://github.com/wjdpwdn/CSS_Study/blob/main/README.md#react-custom-component)
-* [JSX, map](https://github.com/wjdpwdn/MyBlog#jsx-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B7%9C%EC%B9%99)
+* [React 기초, JSX문법](https://github.com/wjdpwdn/MyBlog#jsx-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B7%9C%EC%B9%99)
+* [map을 이용한 반복](https://github.com/wjdpwdn/MyBlog#map%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B0%98%EB%B3%B5)
 <br/> <br/>
 
 # ⚫️ UIUX
